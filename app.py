@@ -491,6 +491,5 @@ with tab6:
             annotation_text="Your Listing Rate",
         )
         st.plotly_chart(fig, width="stretch")
-Overwriting app.py
-!streamlit run app.py
+
  
